@@ -1,0 +1,50 @@
+html, body{
+    height: 100%;
+    width: 100%;
+}
+.left img{
+    width: 53px;
+    height: 32px;
+}
+.container{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 0px;
+    padding-right: 0px;
+    margin: auto;
+}
+nav ul li{
+    list-style: none;
+    padding: 0 12px;
+}
+.profile{
+    width:  15px;
+    height: 15px;
+}
+.box-shadow{
+    box-shadow: 0 4px 12px 0 rgba(0,0,0,.05);
+}
+
+.font{
+    color: black;
+}
+.bg{
+    background-color: rgb(234, 242, 242);
+}
+.cat{
+    display: flex;
+    width: 5cm;
+    height: 8cm;
+    margin-left: 2vw;
+    margin-right: 2vw;
+}
+.content{
+    padding-left: 10vw;
+    padding-right: 10vw;
+}
+.homepng{
+    width: 100vw;
+    object-fit:cover;
+    margin-left: 0%;
+    margin-right: 0%;
+}
